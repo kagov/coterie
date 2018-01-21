@@ -1,0 +1,25 @@
+{
+  "name": "coterie",
+  "version": "1.0.0",
+  "description": "A social app that connects people who want to learn the same thing\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagov/coterie.git"
+  },
+  "author": "Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kagov/coterie/issues"
+  },
+  "homepage": "https://github.com/kagov/coterie#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-logging": "^1.1.1",
+    "logops": "^2.1.0",
+    "socket.io": "^2.0.4"
+  }
+}
